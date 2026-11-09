@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": HallowbornSMP.aternos.me",
-    "port": 46693,
-    "version": "1.21.1"
+    "ip": SATYA00023.aternos.me",
+    "port": 35627,
+    "version": "1.21.11"
   },
   "position": {
     "enabled": true,
